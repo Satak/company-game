@@ -1,6 +1,6 @@
 # Culture & Entertainment Company Cards 🎨
 
-![circle](../../svg/purple_circle.svg)
+![circle](../../../svg/purple_circle.svg)
 
 ## Industries
 
@@ -11,3 +11,5 @@
 - Music & Radio
 - Fashion & Beauty
 - News
+- Sports
+- Media; culture; graphical

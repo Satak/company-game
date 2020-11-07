@@ -1,6 +1,6 @@
 # Technology Company Cards 💻
 
-![circle](../../svg/cyan_circle.svg)
+![circle](../../../svg/cyan_circle.svg)
 
 ## Industries
 
@@ -11,3 +11,6 @@
 - Military
 - Drugs
 - Research
+- Education
+- Finance
+- Mechanical and electrical engineering

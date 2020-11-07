@@ -1,8 +1,8 @@
 name,era,industry,cost,money,science,happiness,infra,influence
 Musketry,steam,tech 💻,7,3,-2,0,-1,3
-Musketry,steam,tech 💻,7,3,-2,0,-1,3
-Musketry,steam,tech 💻,7,3,-2,0,-1,3
-Musketry,steam,tech 💻,7,3,-2,0,-1,3
+Imprinted,steam,tech 💻,4,1,-1,0,-1,2
+Nonactors,steam,tech 💻,6,2,-1,0,0,2
+Horizon,steam,tech 💻,5,3,-3,0,-1,3
 Trans Locomotion,steam,logistics 🚚,5,2,-1,-2,0,2
 Trans Locomotion,steam,logistics 🚚,5,2,-1,-2,0,2
 Trans Locomotion,steam,logistics 🚚,5,2,-1,-2,0,2
