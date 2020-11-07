@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="15" width="50">
+  <g>
+    <rect x="0" y="0" width="50" height="15" fill="yellow"></rect>
+    <text x="0" y="12" font-family="Verdana" font-size="10" fill="black">ELECTRIC</text>
+  </g>
+</svg>
