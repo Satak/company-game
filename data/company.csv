@@ -1,21 +1,21 @@
 name,era,industry,cost,money,science,happiness,infra,influence
-Musketry,steam,tech 💻,7,3,-2,0,-1,3
-Imprinted,steam,tech 💻,4,1,-1,0,-1,2
+Musketry LLC,steam,tech 💻,7,3,-2,0,-1,3
+J&J Imprinted,steam,tech 💻,4,1,-1,0,-1,2
 Nonactors,steam,tech 💻,6,2,-1,0,0,2
 Horizon,steam,tech 💻,5,3,-3,0,-1,3
 Trans Locomotion,steam,logistics 🚚,5,2,-1,-2,0,2
-Trans Locomotion,steam,logistics 🚚,5,2,-1,-2,0,2
-Trans Locomotion,steam,logistics 🚚,5,2,-1,-2,0,2
-Trans Locomotion,steam,logistics 🚚,5,2,-1,-2,0,2
-Steelworks,steam,heavy 🏭,6,2,-1,-2,0,3
-Steelworks,steam,heavy 🏭,6,2,-1,-2,0,3
-Steelworks,steam,heavy 🏭,6,2,-1,-2,0,3
-Steelworks,steam,heavy 🏭,6,2,-1,-2,0,3
+Conestoga Waggons,steam,logistics 🚚,3,1,-1,0,-1,2
+Offloading,steam,logistics 🚚,1,1,0,0,0,1
+Gonz & Wheel,steam,logistics 🚚,2,2,-1,0,0,1
+Empire SteelWorks,steam,heavy 🏭,6,2,-2,-2,-1,3
+TeraMining,steam,heavy 🏭,5,2,-1,-2,-1,2
+Celt Shipyard,steam,heavy 🏭,4,1,-1,-1,0,3
+Dairy & Farms,steam,heavy 🏭,3,1,-1,-2,-1,2
 Press Rebel,steam,culture 🎨,3,1,-1,1,-1,1
-Press Rebel,steam,culture 🎨,3,1,-1,1,-1,1
-Press Rebel,steam,culture 🎨,3,1,-1,1,-1,1
-Press Rebel,steam,culture 🎨,3,1,-1,1,-1,1
+Queens Tailors,steam,culture 🎨,1,1,0,1,0,1
+Daily Journal,steam,culture 🎨,3,1,-1,0,-1,2
+The Art House,steam,culture 🎨,1,2,-2,0,-2,2
 Bathar,steam,basic ✋,2,1,0,1,-1,1
 Baker's,steam,basic ✋,3,1,0,0,-1,1
-Baker's,steam,basic ✋,3,1,0,0,-1,1
-Baker's,steam,basic ✋,3,1,0,0,-1,1
+Dent & Co.,steam,basic ✋,1,1,-1,-1,-1,2
+Hostel & Hospitality,steam,basic ✋,3,1,-1,1,-1,2
