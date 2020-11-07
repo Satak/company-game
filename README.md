@@ -1,3 +1,1 @@
-# company-game
-
-![circle]("/svg/circle.svg")
+# Company Game

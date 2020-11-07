@@ -1,11 +1,6 @@
 # Heavy Company Cards 🏭
 
-<span style="
-border-radius: 50%;
-height: 50px;width: 50px;
-background-color: brown;
-display: inline-block;">
-</span>
+![circle](../../svg/brown_circle.svg)
 
 ## Industries
 
