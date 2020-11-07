@@ -1,0 +1,27 @@
+# Round
+
+- `Draw Cards`
+  - Draw 5 (+ bonus) cards from stack
+- `Buy Cards`
+  - Pay the initial cost of each card
+  - Discard the rest
+- `Company Action`
+  - Sell a company (other player or bank)
+    - Receive money
+    - Adjust your production accordingly
+  - Upgrade a company
+    - Change size of the company
+    - Change company's era type
+    - Adjust your production accordingly
+- `Play Card`
+  - Play any card from your bought cards stack you can
+  - Adjust your production accordingly
+- `Production`
+  - Adjust your production accordingly
+    - money
+    - happiness
+    - education
+    - global influence
+- `End of round`
+  - Move Era round tracker token
+  - Move Era token
