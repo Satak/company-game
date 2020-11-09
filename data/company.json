@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Musketry LLC",
+    "era": "steam",
+    "industry": "tech 💻",
+    "cost": "7",
+    "money": "3",
+    "science": "-2",
+    "happiness": "0",
+    "infra": "-1",
+    "influence": "3"
+  },
+  {
+    "name": "J&J Imprinted",
+    "era": "steam",
+    "industry": "tech 💻",
+    "cost": "4",
+    "money": "1",
+    "science": "-1",
+    "happiness": "0",
+    "infra": "-1",
+    "influence": "2"
+  },
+  {
+    "name": "Nonactors",
+    "era": "steam",
+    "industry": "tech 💻",
+    "cost": "6",
+    "money": "2",
+    "science": "-1",
+    "happiness": "0",
+    "infra": "0",
+    "influence": "2"
+  },
+  {
+    "name": "Horizon",
+    "era": "steam",
+    "industry": "tech 💻",
+    "cost": "5",
+    "money": "3",
+    "science": "-3",
+    "happiness": "0",
+    "infra": "-1",
+    "influence": "3"
+  },
+  {
+    "name": "Trans Locomotion",
+    "era": "steam",
+    "industry": "logistics 🚚",
+    "cost": "5",
+    "money": "2",
+    "science": "-1",
+    "happiness": "-2",
+    "infra": "0",
+    "influence": "2"
+  },
+  {
+    "name": "Conestoga Waggons",
+    "era": "steam",
+    "industry": "logistics 🚚",
+    "cost": "3",
+    "money": "1",
+    "science": "-1",
+    "happiness": "0",
+    "infra": "-1",
+    "influence": "2"
+  },
+  {
+    "name": "Offloading",
+    "era": "steam",
+    "industry": "logistics 🚚",
+    "cost": "1",
+    "money": "1",
+    "science": "0",
+    "happiness": "0",
+    "infra": "0",
+    "influence": "1"
+  },
+  {
+    "name": "Gonz & Wheel",
+    "era": "steam",
+    "industry": "logistics 🚚",
+    "cost": "2",
+    "money": "2",
+    "science": "-1",
+    "happiness": "0",
+    "infra": "0",
+    "influence": "1"
+  },
+  {
+    "name": "Empire SteelWorks",
+    "era": "steam",
+    "industry": "heavy 🏭",
+    "cost": "6",
+    "money": "2",
+    "science": "-2",
+    "happiness": "-2",
+    "infra": "-1",
+    "influence": "3"
+  },
+  {
+    "name": "TeraMining",
+    "era": "steam",
+    "industry": "heavy 🏭",
+    "cost": "5",
+    "money": "2",
+    "science": "-1",
+    "happiness": "-2",
+    "infra": "-1",
+    "influence": "2"
+  },
+  {
+    "name": "Celt Shipyard",
+    "era": "steam",
+    "industry": "heavy 🏭",
+    "cost": "4",
+    "money": "1",
+    "science": "-1",
+    "happiness": "-1",
+    "infra": "0",
+    "influence": "3"
+  },
+  {
+    "name": "Dairy & Farms",
+    "era": "steam",
+    "industry": "heavy 🏭",
+    "cost": "3",
+    "money": "1",
+    "science": "-1",
+    "happiness": "-2",
+    "infra": "-1",
+    "influence": "2"
+  },
+  {
+    "name": "Press Rebel",
+    "era": "steam",
+    "industry": "culture 🎨",
+    "cost": "3",
+    "money": "1",
+    "science": "-1",
+    "happiness": "1",
+    "infra": "-1",
+    "influence": "1"
+  },
+  {
+    "name": "Queens Tailors",
+    "era": "steam",
+    "industry": "culture 🎨",
+    "cost": "1",
+    "money": "1",
+    "science": "0",
+    "happiness": "1",
+    "infra": "0",
+    "influence": "1"
+  },
+  {
+    "name": "Daily Journal",
+    "era": "steam",
+    "industry": "culture 🎨",
+    "cost": "3",
+    "money": "1",
+    "science": "-1",
+    "happiness": "0",
+    "infra": "-1",
+    "influence": "2"
+  },
+  {
+    "name": "The Art House",
+    "era": "steam",
+    "industry": "culture 🎨",
+    "cost": "1",
+    "money": "2",
+    "science": "-2",
+    "happiness": "0",
+    "infra": "-2",
+    "influence": "2"
+  },
+  {
+    "name": "Bathar",
+    "era": "steam",
+    "industry": "basic ✋",
+    "cost": "2",
+    "money": "1",
+    "science": "0",
+    "happiness": "1",
+    "infra": "-1",
+    "influence": "1"
+  },
+  {
+    "name": "Baker's",
+    "era": "steam",
+    "industry": "basic ✋",
+    "cost": "3",
+    "money": "1",
+    "science": "0",
+    "happiness": "0",
+    "infra": "-1",
+    "influence": "1"
+  },
+  {
+    "name": "Dent & Co.",
+    "era": "steam",
+    "industry": "basic ✋",
+    "cost": "1",
+    "money": "1",
+    "science": "-1",
+    "happiness": "-1",
+    "infra": "-1",
+    "influence": "2"
+  },
+  {
+    "name": "Hostel & Hospitality",
+    "era": "steam",
+    "industry": "basic ✋",
+    "cost": "3",
+    "money": "1",
+    "science": "-1",
+    "happiness": "1",
+    "infra": "-1",
+    "influence": "2"
+  }
+]

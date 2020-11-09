@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Public School",
+    "era": "steam",
+    "type": "education 🔬",
+    "cost": "5",
+    "money": "-1",
+    "science": "2",
+    "happiness": "1",
+    "infra": "-1",
+    "influence": "0"
+  },
+  {
+    "name": "University",
+    "era": "steam",
+    "type": "education 🔬",
+    "cost": "5",
+    "money": "-3",
+    "science": "3",
+    "happiness": "2",
+    "infra": "-1",
+    "influence": "0"
+  },
+  {
+    "name": "Royal Society",
+    "era": "steam",
+    "type": "education 🔬",
+    "cost": "3",
+    "money": "-1",
+    "science": "1",
+    "happiness": "0",
+    "infra": "0",
+    "influence": "1"
+  },
+  {
+    "name": "Erudition",
+    "era": "steam",
+    "type": "education 🔬",
+    "cost": "2",
+    "money": "0",
+    "science": "1",
+    "happiness": "0",
+    "infra": "0",
+    "influence": "0"
+  },
+  {
+    "name": "Emergency service",
+    "era": "steam",
+    "type": "infra 🏢",
+    "cost": "3",
+    "money": "-2",
+    "science": "0",
+    "happiness": "1",
+    "infra": "2",
+    "influence": "0"
+  },
+  {
+    "name": "Courthouse",
+    "era": "steam",
+    "type": "infra 🏢",
+    "cost": "2",
+    "money": "-1",
+    "science": "0",
+    "happiness": "0",
+    "infra": "1",
+    "influence": "0"
+  },
+  {
+    "name": "Roads",
+    "era": "steam",
+    "type": "infra 🏢",
+    "cost": "4",
+    "money": "-2",
+    "science": "0",
+    "happiness": "0",
+    "infra": "3",
+    "influence": "0"
+  },
+  {
+    "name": "Pharmaceutical Medicine",
+    "era": "steam",
+    "type": "infra 🏢",
+    "cost": "3",
+    "money": "-1",
+    "science": "-1",
+    "happiness": "1",
+    "infra": "3",
+    "influence": "0"
+  },
+  {
+    "name": "Freedom Protection",
+    "era": "steam",
+    "type": "policy ⚖️",
+    "cost": "1",
+    "money": "0",
+    "science": "0",
+    "happiness": "3",
+    "infra": "0",
+    "influence": "0"
+  },
+  {
+    "name": "Fair Trials",
+    "era": "steam",
+    "type": "policy ⚖️",
+    "cost": "1",
+    "money": "0",
+    "science": "0",
+    "happiness": "2",
+    "infra": "0",
+    "influence": "0"
+  },
+  {
+    "name": "Separation of powers",
+    "era": "steam",
+    "type": "policy ⚖️",
+    "cost": "2",
+    "money": "0",
+    "science": "0",
+    "happiness": "3",
+    "infra": "0",
+    "influence": "0"
+  },
+  {
+    "name": "Voting Rights",
+    "era": "steam",
+    "type": "policy ⚖️",
+    "cost": "1",
+    "money": "0",
+    "science": "0",
+    "happiness": "3",
+    "infra": "0",
+    "influence": "1"
+  }
+]
